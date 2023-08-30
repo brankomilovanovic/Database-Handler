@@ -1,0 +1,34 @@
+{
+    "naslov": {
+        "naslov1": "Dokument koji sadrzi strukturu aktivnosti za zadati",
+        "naslov2": "model procesa <p1.drzava> <p2.kompanija> <p3.id> <p4.naziv>"
+    },
+    "softverski_proces": {
+        "drzava": "DR_OZNAKA",
+        "kompanija": "PS_ID",
+        "id_procesa": "ID_PROCESA",
+        "naziv_modela": "PROC_NAZIV",
+        "struktura_procesa": {
+            "aktivnosti": "AKT_OZNAKA",
+            "verzija": "AKT_VERZIJA",
+            "struktura_aktivnosti": {
+                "datum_formiranja": "AKT_DATFORM",
+                "naziv_aktivnosti": "AKT_NAZIV",
+                "projekti": [
+                    {
+                        "tip_projekta": "TIPP_D",
+                        "id_projekta": "PROJ_ID",
+                        "revizija": "PROJ_REVIZIJA",
+                        "naziv": "PROJ_NAZIV",
+                        "planirani_zavrsetak": "PROJ_DATOKON",
+                        "stvarni_zavrsetak": "PROJ_STVARNI_ZAVRSETAK",
+                        "id_procesa": "ID_PROCESA"
+                    }
+                ]
+            }
+        }
+    }
+    
+}
+
+

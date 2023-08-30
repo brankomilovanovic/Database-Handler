@@ -1,0 +1,12 @@
+dnspython==2.3.0
+multimethod==1.9.1
+mysql==0.0.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.33
+mysqlclient==2.1.1
+protobuf==3.20.3
+pymongo==4.3.3
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+PyQt5-stubs==5.15.6.0
