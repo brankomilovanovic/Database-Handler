@@ -1,10 +1,9 @@
 <h1 align="center">Database handler</h1>
 
 ### About
-This is a desktop application for handling a special MySQL, MongoDB and ArangoDB.
-<br><br>
-It is possible to handle multiple databases simultaneously, as well as to enable and disable plugins for connecting to databases
-
+This is a desktop application for handling a special MySQL, MongoDB and ArangoDB.<br>
+It is possible to handle multiple databases simultaneously, as well as to enable and disable plugins for connecting to databases.<br><br>
+The project was made by students **[Branko Milovanovic](https://www.linkedin.com/in/branko-milovanovic)**, **[Igor Kostin](https://www.linkedin.com/in/igor-kostin-655084258/)**, **[Ivan Pecikoza](https://www.linkedin.com/in/ivan-pecikoza-301450223/)**, **[Marko Šinik](https://www.linkedin.com/in/marko-%C5%A1inik-176557240/)**, and **[Dusana Mrdjan](https://gitlab.com/wolfmange)**.
 <hr>
 
 ### Tools used
@@ -52,7 +51,9 @@ or<br>
 <br>
 
 **4. Start database handler**
+<br>
 > [Visual Studio Code](https://code.visualstudio.com) > File > Open Folder > Find the cloned directory, and select the folder. > **py main.py**
+<br>
 
 **5. Enjoy**
 
