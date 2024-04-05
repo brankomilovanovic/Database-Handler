@@ -13,6 +13,7 @@ The project was made by students **[Branko Milovanovic](https://www.linkedin.com
 <hr>
 
 ### Preview
+<kbd><portfolio><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/35bf11f2-cb69-4f62-8599-5f131729d3fc" /></portfolio></kbd><hr>
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/991f65fd-f607-4efd-ac4d-c3dd78a0c9df" /></kbd><hr>
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/cf977cd2-e35f-4794-9519-cfc06573c951" /></kbd><hr>
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/9b7d10aa-ba00-4a31-a110-ac1df045b401" /></kbd><hr>
@@ -27,7 +28,7 @@ The project was made by students **[Branko Milovanovic](https://www.linkedin.com
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/418cd6df-ff66-4c2f-a411-7905d297ac01" /></kbd><hr>
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/1ea7ae94-ae85-487a-8642-c8d6ab96d8d2" /></kbd><hr>
 <kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/2f1456c1-61a3-4db9-95c1-4ebd6719414b" /></kbd><hr>
-<kbd><portfolio><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/979cb4cd-b34e-4fd6-bbd2-adec03bebd9a" /></portfolio></kbd><hr>
+<kbd><img src="https://github.com/brankomilovanovic/Database-Handler/assets/87083680/979cb4cd-b34e-4fd6-bbd2-adec03bebd9a" /></kbd><hr>
 
 <hr>
 
